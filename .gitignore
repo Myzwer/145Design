@@ -4,3 +4,5 @@ package-lock.json
 yarn.lock
 /assets/public/css
 /assets/public/js
+.DS_Store
+/.idea
