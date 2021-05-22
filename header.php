@@ -44,9 +44,7 @@
              id="nav-content">
 
             <ul><li>Contact Me</li></ul>
-
         </div>
     </div>
-    <hr class="border-b border-gray-100 opacity-25 my-0 py-0"/>
 </nav>
 
