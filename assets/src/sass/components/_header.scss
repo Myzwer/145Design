@@ -1,0 +1,36 @@
+/**
+ * Header
+ * =================================
+ * The hope is to use this and edit as necessary because editing headers suck.
+ *
+ *
+ */
+
+
+@media screen and (min-width: 1024px) {
+  .wp-header {
+    div {
+      display: flex;
+      justify-content: flex-end;
+      flex: 1 1 0%;
+      align-items: center;
+    }
+
+    ul {
+      display: flex;
+      justify-content: flex-end;
+      flex: 1 1 0%;
+      align-items: center;
+    }
+
+    li {
+      margin-right: 0.75rem;
+    }
+
+    a {
+      display: inline-block;
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+    }
+  }
+}
