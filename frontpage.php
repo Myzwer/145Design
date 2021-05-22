@@ -12,7 +12,7 @@
  */
 
 get_header(); ?>
-
+<div id="particles-js"></div>
 <div class="header">
     <img src="http://145-design.local/wp-content/uploads/2021/05/Header-blob.png" alt="">
     <div class="middle">
