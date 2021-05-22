@@ -16,7 +16,7 @@
     <meta charset="<?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-
+    <script src="https://kit.fontawesome.com/aa36ddf53c.js" crossorigin="anonymous"></script>
     <?php wp_head(); ?>
 </head>
 
@@ -43,7 +43,7 @@
         <div class="wp-header w-full flex-grow lg:flex lg:items-center lg:w-auto hidden mt-2 lg:mt-0 lg:bg-transparent text-white p-4 lg:p-0 z-20"
              id="nav-content">
 
-            <ul><li>Contact Me</li></ul>
+            <ul><li><i class="far fa-comment-dots"></i> Contact Me</li></ul>
         </div>
     </div>
 </nav>
