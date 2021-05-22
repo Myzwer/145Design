@@ -7,6 +7,9 @@
 /* v2.0.0
 /* ----------------------------------------------- */
 
+// I didn't write this so....
+/* eslint-disable */
+
 const pJS = function (tag_id, params) {
 	const canvas_el = document.querySelector(
 		'#' + tag_id + ' > .particles-js-canvas-el'
