@@ -33,3 +33,8 @@ get_header(); ?>
     <p class = "text-white py-2 text-left">In my free time you can find me playing computer games, board games or prepping for our next session of D&D. I also enjoy cheering on my favorite eSports team (cloud9), and listening to pop punk music because “the phase” never ended for me.</p>
     <p class = "text-white py-2 text-left">I have been married to my sweet wife Katie for 4 years now, and we currently live just outside of Knoxville, TN with our 3 pets, Ahri, Xayah and Lux.</p>
 </div>
+
+<img src="http://145-design.local/wp-content/uploads/2021/05/Services-Top-Compressed.png" alt="">
+<div class="purple-bg">
+    <h1 class="text-center text-white opacity-60 text-6xl lg:text-8xl pt-5 uppercase">Services</h1>
+</div>
